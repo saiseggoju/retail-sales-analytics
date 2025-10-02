@@ -36,9 +36,6 @@ The project focuses on:
 Bar chart of sales by product category:  
 ![Sales by Category](reports/figures/sales_by_category.png)
 
-- Monthly Sales Trend  
-  ![Monthly Sales](reports/figures/monthly_sales_trend.png)
-
 - Top 5 Products by Sales  
   ![Top Products](reports/figures/top_products.png)
 
