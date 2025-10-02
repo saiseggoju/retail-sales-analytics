@@ -46,13 +46,14 @@ Bar chart of sales by product category:
   ![Sales by Category](reports/figures/sales_by_category.png)
 
 
-  ## ✨ Highlights
+ ## ✨ Highlights
 
 - 📊 **Exploratory Data Analysis (EDA):** Clean and analyze retail dataset  
 - 📈 **Sales Trend Analysis:** Identify revenue patterns over time  
 - 🛒 **Top Products & Categories:** Find best/worst performers  
 - 📉 **Profitability Insights:** Track margin and revenue distribution  
-- 🔮 **F**
+- 🔮 **Future Work:** Extend to forecasting models and dashboards  
+
 
 
 ---
