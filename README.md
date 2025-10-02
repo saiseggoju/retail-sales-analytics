@@ -11,7 +11,16 @@ The project focuses on:
 - 📈 Monthly revenue trends  
 - 🛒 Top-selling products  
 - 👥 High-value customers  
-- 🌍 Regional sales distribution  
+- 🌍 Regional sales distribution
+
+## 🛠️ Tech Stack
+
+- **Python** → Data analysis and scripting  
+- **Pandas & NumPy** → Data manipulation & preprocessing  
+- **Matplotlib & Seaborn** → Data visualization  
+- **Jupyter Notebook** → Interactive analysis  
+- **Git & GitHub** → Version control & collaboration  
+ 
 
 ---
 
@@ -35,6 +44,16 @@ Bar chart of sales by product category:
 
 - Sales by Category  
   ![Sales by Category](reports/figures/sales_by_category.png)
+
+
+  ## ✨ Highlights
+
+- 📊 **Exploratory Data Analysis (EDA):** Clean and analyze retail dataset  
+- 📈 **Sales Trend Analysis:** Identify revenue patterns over time  
+- 🛒 **Top Products & Categories:** Find best/worst performers  
+- 📉 **Profitability Insights:** Track margin and revenue distribution  
+- 🔮 **F**
+
 
 ---
 
